@@ -4,4 +4,4 @@ Problème des N reines en Python
 
 
 Les algorithmes de tri
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YazidiNourhene/Algorithmique_Avancee/tree/main/main?filepath=Yazidi_Nourhene_2DNI2_Projet2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YazidiNourhene/Algorithmique_Avancee/main?filepath=Yazidi_Nourhene_2DNI2_Projet2.ipynb)
